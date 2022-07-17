@@ -10,9 +10,14 @@
   "author": "lucas",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "consign": "^0.1.6",
     "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "my": "^0.3.3",
+    "my-sql": "^1.2.15",
     "nodemon": "^2.0.19",
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "sql": "^0.78.0"
   }
 }
